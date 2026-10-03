@@ -1,25 +1,22 @@
-## Hi there 👋
-
-👋 Hi, I'm Prajwal Kumar!
+# 👋 Hi, I'm Prajwal Kumar
 
 ### 🐍 Python Full Stack Developer | Web Developer | AI Enthusiast
 
 I'm a passionate developer focused on building **full-stack web applications using Python and modern web technologies**.
-
-I enjoy learning new technologies, building projects, and improving my programming and problem-solving skills.
 
 ---
 
 ## 🚀 About Me
 
 * 💻 Aspiring **Python Full Stack Developer**
-* 🐍 Learning and building applications with **Python**
-* 🌐 Frontend development with **HTML, CSS & JavaScript**
-* 🗄️ Working with **SQL & Databases**
-* 🔗 Learning and building **REST APIs**
-* 🤖 Exploring **AI with Python**
-* 📚 Practicing **DSA & Problem Solving**
-* 🎯 Goal: Become a professional **Python Full Stack Developer**
+* 🐍 Python
+* 🌐 HTML, CSS & JavaScript
+* ⚙️ Django
+* 🗄️ SQL & MongoDB
+* 🔗 REST APIs
+* 🤖 Exploring AI with Python
+* 📚 Practicing DSA with Python
+* 🎯 Looking for opportunities to grow as a **Python Full Stack Developer**
 
 ---
 
@@ -28,53 +25,49 @@ I enjoy learning new technologies, building projects, and improving my programmi
 ### 🎨 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### 🐍 Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🔗 APIs & Development
+### 🔗 APIs & Tools
 
 * REST APIs
-* Object-Oriented Programming (OOP)
-* Git & GitHub
-
-### 🤖 Currently Exploring
-
-* Python Backend Frameworks
-* AI with Python
+* Git
+* GitHub
+* Object-Oriented Programming
 * Data Structures & Algorithms
 
 ---
 
-## 💻 Full Stack Skills
+## 💻 Full Stack
 
 ```text
 Frontend
-HTML
-CSS
-JavaScript
-   ↓
+HTML + CSS + JavaScript
+          ↓
 Backend
-Python
-REST APIs
-   ↓
+Python + Django
+          ↓
+APIs
+REST API
+          ↓
 Database
-SQL
-   ↓
-Full Stack Applications
+SQL + MongoDB
 ```
 
 ---
@@ -85,14 +78,18 @@ Full Stack Applications
 
 * Portfolio Website
 * Responsive Web Pages
-* HTML & CSS Projects
 * JavaScript Projects
 
-### 🐍 Python Projects
+### 🐍 Python & Django
 
-* Python OOP Projects
-* Python Practice Projects
-* Python Backend Applications
+* Django Web Applications
+* REST API Projects
+* Python Backend Projects
+
+### 🗄️ Database Projects
+
+* SQL Projects
+* MongoDB Projects
 
 ### 🚀 Full Stack Projects
 
@@ -103,25 +100,18 @@ Full Stack Applications
 ## 📚 Currently Learning
 
 * 🐍 Advanced Python
+* ⚙️ Django
 * 🌐 JavaScript
 * 🔗 REST APIs
-* 🗄️ SQL & Databases
+* 🗄️ SQL & MongoDB
 * 🧩 DSA with Python
-* ⚙️ Python Backend Development
 * 🤖 AI with Python
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 My Goal
 
-* ✅ Strengthen Python
-* ✅ Improve HTML, CSS & JavaScript
-* ✅ Build full-stack projects
-* 🔄 Learn a Python backend framework
-* 🔄 Build REST APIs
-* 🔄 Improve DSA
-* 🔄 Build AI projects with Python
-* 🎯 Get a Python Full Stack Developer job
+Become a **Python Full Stack Developer** and build scalable, useful, and user-friendly web applications.
 
 ---
 
@@ -131,20 +121,6 @@ Full Stack Applications
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ Thanks for visiting my profile!
 
 ### 🚀 Learn • Build • Improve • Repeat
-
-**prajwal1235677/prajwal1235677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
