@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hi, I'm Prajwal Kumar 
+👋 Hi, I'm Prajwal Kumar!
 
 ### 🐍 Python Full Stack Developer | Web Developer | AI Enthusiast
 
